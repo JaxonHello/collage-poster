@@ -1,0 +1,4 @@
+interface:
+  display_name: "Collage Poster"
+  short_description: "Dense interlocked experimental editorial posters"
+  default_prompt: "Use $collage-poster to turn my subject or scene into a dense interlocked 12:5 editorial poster and generate the image."
