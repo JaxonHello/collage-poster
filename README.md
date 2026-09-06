@@ -11,7 +11,7 @@ It combines **Japanese contemporary graphic design, Swiss editorial typography, 
 Clone this repository into your Codex Skills directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL> ~/.codex/skills/collage-poster
+git clone https://github.com/JaxonHello/collage-poster.git ~/.codex/skills/collage-poster
 ```
 
 Then use the Skill directly in Codex:
