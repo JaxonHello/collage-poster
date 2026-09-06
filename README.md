@@ -30,7 +30,7 @@ You can also simply describe the subject and any additional requirements such as
 
 ### Beijing Guoan vs Shandong Luneng
 
-![Beijing Guoan vs Shandong Luneng](./examples/BeijingvsShandong.png)
+![Beijing Guoan vs Shandong Luneng](./examples/BeijngvsShandong.png)
 
 ### Luffy vs Kaido — One Piece
 
