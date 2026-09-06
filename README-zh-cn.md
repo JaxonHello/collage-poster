@@ -11,7 +11,7 @@
 将仓库克隆到 Codex 的 Skills 目录：
 
 ```bash
-git clone <YOUR_REPOSITORY_URL> ~/.codex/skills/collage-poster
+git clone https://github.com/JaxonHello/collage-poster.git ~/.codex/skills/collage-poster
 ```
 
 随后即可在 Codex 中直接使用：
